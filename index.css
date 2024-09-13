@@ -1,0 +1,85 @@
+*{
+    font-family: poppins;
+}
+
+
+:root{
+    --pink-color:#C63C51;
+    --orange-color:#D95F59;
+    --primary-color:#C23373;
+    --secondary-color:#C63C51;
+    --yellow-color: #FFBF78;
+    --p1-color:#FF577F;
+}
+
+.colors{
+    background-image: linear-gradient(to right,#C63C51,#FF577F,#FFBF78);
+}
+.hi{
+    color: #C63C51;
+}
+
+.bg-1{
+
+    background-image: url(images/p-3.jpg);
+    background-size: cover;
+    width: fit-content;
+    border-radius: 50%;
+   
+}
+.img-width{
+    width: 200px;
+}
+
+.btn-bg{
+    background-image: linear-gradient(to right,#FF577F,#D95F59,#fab463 );
+    border: none;
+}
+
+.btn-bg:hover{
+    background: white;
+    color:#C63C51;
+    border:  1px solid #C63C51;
+}
+
+.color-1{
+    color: #FF577F;
+}
+.color-2{
+    color: #C63C51;
+}
+.width{
+    width: fit-content;
+}
+.border-1{
+    border: none ;
+}
+.border-1:hover{
+    border: 1px solid #C23373;
+    
+}
+
+.image{
+    background-image: url(images/i-2.png);
+   
+    background-size: cover;
+}
+.text-1{
+    color:#C23373 ;
+}
+.zindex{
+    z-index: 10;
+
+}
+
+.btn-11{
+   border: none; 
+}
+.btn-11:hover{
+    border: 1px solid #C23373;
+    color: #C23373;
+    background: none;
+}
+.height{
+    height: 350px;
+}
