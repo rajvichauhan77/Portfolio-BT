@@ -83,3 +83,65 @@
 .height{
     height: 350px;
 }
+
+.project-brdr{
+    border: 3px solid #FF577F;
+    border-radius: 10px;
+}
+
+.f-size{
+    font-size: 90px;
+}
+
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .height-1{
+    height: 280px;
+  }
+
+  .icon-bg{
+   
+    color: black;
+   
+  }
+  .font-bg{
+    color: #C63C51;
+    
+  }
+
+  .s-brdr{
+    border: 3px solid #C63C51;
+    border-radius: 10px;
+  }
+
+  .size-text{
+    font-size: 40px;
+  }
+
+  .width-p1{
+    width: 30%;
+  }
+
+  .width-p2{
+    width: 50%;
+  }
