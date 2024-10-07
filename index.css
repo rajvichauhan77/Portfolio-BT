@@ -116,7 +116,7 @@
   }
 
   .height-1{
-    height: 280px;
+    height: 215px;
   }
 
   .icon-bg{
@@ -130,12 +130,13 @@
   }
 
   .s-brdr{
-    border: 3px solid #C63C51;
+    border: 3px solid #c63c5158;
     border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
 
   .size-text{
-    font-size: 40px;
+    font-size: 25px;
   }
 
   .width-p1{
@@ -149,4 +150,8 @@
   .map-brdr{
     border:3px solid #C63C51;
     border-radius: 10px;
+  }
+
+  .a-link{
+    text-decoration: none;
   }
