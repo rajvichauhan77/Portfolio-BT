@@ -115,9 +115,9 @@
     object-fit: cover;
   }
 
-  .height-1{
-    height: 215px;
-  }
+  /* .height-1{
+    height: 250px;
+  } */
 
   .icon-bg{
    
@@ -154,4 +154,8 @@
 
   .a-link{
     text-decoration: none;
+  }
+
+  .skill-img{
+    height: 50px;
   }
