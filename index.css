@@ -96,7 +96,7 @@
 
 .swiper {
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
   }
 
   .swiper-slide {
@@ -111,13 +111,13 @@
   .swiper-slide img {
     display: block;
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     object-fit: cover;
   }
 
-  /* .height-1{
+   .height-1{
     height: 250px;
-  } */
+  }  
 
   .icon-bg{
    
@@ -157,5 +157,6 @@
   }
 
   .skill-img{
-    height: 50px;
+    height: 150px;
   }
+
